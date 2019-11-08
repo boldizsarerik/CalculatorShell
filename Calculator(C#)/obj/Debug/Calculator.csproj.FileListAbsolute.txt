@@ -1,0 +1,14 @@
+c:\users\hallgato\documents\nemethy\visual studio 2013\Projects\Calculator\bin\Debug\Calculator.exe.config
+c:\users\hallgato\documents\nemethy\visual studio 2013\Projects\Calculator\bin\Debug\Calculator.exe
+c:\users\hallgato\documents\nemethy\visual studio 2013\Projects\Calculator\bin\Debug\Calculator.pdb
+c:\users\hallgato\documents\nemethy\visual studio 2013\Projects\Calculator\bin\Debug\ShellLibrary.dll
+c:\users\hallgato\documents\nemethy\visual studio 2013\Projects\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\hallgato\documents\nemethy\visual studio 2013\Projects\Calculator\obj\Debug\Calculator.exe
+c:\users\hallgato\documents\nemethy\visual studio 2013\Projects\Calculator\obj\Debug\Calculator.pdb
+D:\Java & C# projects\Shell programok\CalculatorShell\CalculatorC\bin\Debug\Calculator.exe.config
+D:\Java & C# projects\Shell programok\CalculatorShell\CalculatorC\obj\Debug\Calculator.exe
+D:\Java & C# projects\Shell programok\CalculatorShell\CalculatorC\obj\Debug\Calculator.pdb
+D:\Java & C# projects\Shell programok\CalculatorShell\CalculatorC\bin\Debug\Calculator.exe
+D:\Java & C# projects\Shell programok\CalculatorShell\CalculatorC\bin\Debug\Calculator.pdb
+D:\Java & C# projects\Shell programok\CalculatorShell\CalculatorC\bin\Debug\ShellLibrary.dll
+D:\Java & C# projects\Shell programok\CalculatorShell\CalculatorC\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
